@@ -12,6 +12,7 @@ html {
 html,
 body {
 	margin: 0;
+	width: 100%;
 	padding: 0;
 }
 @media only screen {
