@@ -1,4 +1,4 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Biblioteca</title><style>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><style>
 /* cspell:disable-file */
 /* webkit printing magic: print all background colors */
 html {
@@ -17,7 +17,6 @@ body {
 @media only screen {
 	body {
 		margin: 2em auto;
-		max-width: 900px;
 		color: rgb(55, 53, 47);
 	}
 }
